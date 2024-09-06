@@ -1,0 +1,14 @@
+.img-sobre img{
+    border-radius: 600px 300px 800px 460px;
+    width: 500px;
+}
+
+.texto-sobre{
+    color: #603a24;
+    
+}
+
+#sobre-min{
+    background-color: #fff3dc;
+    padding: 5%;
+}
